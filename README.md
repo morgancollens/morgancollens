@@ -33,6 +33,7 @@
 [![Mocha](https://img.shields.io/badge/mocha-black?style=for-the-badge&logo=mocha)](https://hub.docker.com/u/morgancollens)
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://hub.docker.com/u/morgancollens)
 [![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/morgancollens)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/morgancollens)
 
 ### Cloud Platforms
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws)](https://github.com/morgancollens)
