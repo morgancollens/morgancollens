@@ -4,7 +4,7 @@
     <b>Welcome to my Github page!</b><br><br>
     <i>
         I'm Morgan.<br>
-        I have been a professional software developer for over 4 years, with experience
+        I have been a professional software developer for over 5 years, with experience
         in various web programming languages, frameworks and cloud platforms.<br>
         Currently learning to integrate AI and ML solutions into my projects.<br>
     </i><br>
@@ -35,6 +35,7 @@
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://hub.docker.com/u/morgancollens)
 [![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/morgancollens)
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/morgancollens)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/morgancollens)
 
 ### Cloud Platforms
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws)](https://github.com/morgancollens)
