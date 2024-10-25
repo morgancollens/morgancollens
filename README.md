@@ -39,7 +39,7 @@
 
 ### Cloud Platforms
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws)](https://github.com/morgancollens)
-[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-black?style=for-the-badge&logo=googlecloud)](https://github.com/morgancollens)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=for-the-badge&logo=azure)](https://github.com/morgancollens)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/morgancollens)
